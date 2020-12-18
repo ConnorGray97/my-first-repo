@@ -1,1 +1,1 @@
-# my-full-template
+# my-first-repo
